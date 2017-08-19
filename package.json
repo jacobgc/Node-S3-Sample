@@ -1,0 +1,29 @@
+{
+    "name": "node-s3-sample",
+    "version": "1.0.0",
+    "description": "A sample to remind me how picky s3 is",
+    "main": "index.js",
+    "dependencies": {
+        "aws-sdk": "^2.100.0",
+        "uuid": "^3.1.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jacobgc/Node-S3-Sample.git"
+    },
+    "keywords": [
+        "node",
+        "amazon",
+        "s3"
+    ],
+    "author": "Jacob Gee-Clarke",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jacobgc/Node-S3-Sample/issues"
+    },
+    "homepage": "https://github.com/jacobgc/Node-S3-Sample#readme"
+}
